@@ -1,0 +1,131 @@
+{
+  "datos" : [{
+          "_id" : 1 ,
+          "name" : " Superando " ,
+          "album" : " Un amor " ,
+          "portada" : " https://jenesaispop.com/wp-content/uploads/2009/09/guetta_onelove.jpg " ,
+          "artista" : {
+              "nombre" : " David Guetta " ,
+              "nickname" : " David Guetta " ,
+              "nacionalidad" : " FR "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track.mp3 "
+      },
+      {
+          "_id" : 2 ,
+          "name" : " Snow Tha Product || BZRP Music Sessions # 39 " ,
+          "album" : " BZRP Music Sessions " ,
+          "cover" : " https://is5-ssl.mzstatic.com/image/thumb/Features125/v4/9c/b9/d0/9cb9d017-fcf6-28c6-81d0-e9ac5b0f359e/pr_source.png/800x800cc.jpg " ,
+          "artista" : {
+              "name" : " Nieve " ,
+              "nickname" : " Nieve " ,
+              "nacionalidad" : " EE. UU. "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-1.mp3 "
+      },
+      {
+          "_id" : 3 ,
+          "name" : " Calypso (mezcla original) " ,
+          "album" : " Round Table Knights " ,
+          "cover" : " https://cdns-images.dzcdn.net/images/cover/1db3f8f185e68f26feaf0b9d72ff1645/350x350.jpg " ,
+          "artista" : {
+              "name" : " Round Table Knights " ,
+              "nickname" : " Caballeros de la mesa redonda " ,
+              "nacionalidad" : " EE. UU. "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-2.mp3 "
+      },
+      {
+          "_id" : 4 ,
+          "name" : " Malos hábitos " ,
+          "album" : " Ed Sheeran " ,
+          "cover" : " https://www.lahiguera.net/musicalia/artistas/ed_sheeran/disco/11372/tema/25301/ed_sheeran_bad_habits-portada.jpg " ,
+          "artista" : {
+              "nombre" : " Ed Sheeran " ,
+              "nickname" : " Ed Sheeran " ,
+              "nacionalidad" : " Reino Unido "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-4.mp3 "
+      },
+      {
+          "_id" : 5 ,
+          "name" : " BEBE (Video oficial) " ,
+          "album" : " Giolì & Assia " ,
+          "portada" : " https://i.scdn.co/image/ab67616d0000b27345ca41b0d2352242c7c9d4bc " ,
+          "artista" : {
+              "nombre" : " Giolì & Assia " ,
+              "apodo" : " Giolì & Assia " ,
+              "nacionalidad" : " IT "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-3.mp3 "
+      },
+      {
+          "_id" : 6 ,
+          "name" : " TNT (Live At River Plate, diciembre de 2009) " ,
+          "álbum" : " AC / DC " ,
+          "cover" : " https://cdns-images.dzcdn.net/images/cover/ba5eaf2f3a49768164d0728b7ba64372/500x500.jpg " ,
+          "artista" : {
+              "nombre" : " AC / DC " ,
+              "apodo" : " AC / DC " ,
+              "nacionalidad" : " EE. UU. "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-5.mp3 "
+      },
+      {
+          "_id" : 7 ,
+          "name" : " 50 Cent - Candy Shop (con Olivia) " ,
+          "album" : " 50 Cent " ,
+          "portada" : " https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d " ,
+          "artista" : {
+              "nombre" : " 50 Cent " ,
+              "nickname" : " 50 Cent " ,
+              "nacionalidad" : " EE. UU. "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-6.mp3 "
+      },
+      {
+          "_id" : 8 ,
+          "nombre" : " Bésame💋 " ,
+          "album" : " Valentino Ft MTZ Manuel Turizo (Video Oficial) " ,
+          "portada" : " https://i1.sndcdn.com/artworks-000247627460-1hqnjr-t500x500.jpg " ,
+          "artista" : {
+              "nombre" : " Valentino " ,
+              "apodo" : " Valentino " ,
+              "nacionalidad" : " CO "
+          },
+          "duración" : {
+              "inicio" : 0 ,
+              "fin" : 333
+          },
+          "url" : " http: // localhost: 3000 / track-7.mp3 "
+      }
+  ]
+}
